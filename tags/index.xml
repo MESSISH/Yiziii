@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yizi</title>
-    <link>MESSISH/Yiziii/tags/</link>
+    <link>/Yiziii/tags/</link>
     <description>Recent content in Tags on Yizi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@Yizi</copyright>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="MESSISH/Yiziii/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/Yiziii/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>development</title>
-      <link>MESSISH/Yiziii/tags/development/</link>
+      <link>/Yiziii/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>MESSISH/Yiziii/tags/development/</guid>
+      <guid>/Yiziii/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>MESSISH/Yiziii/tags/go/</link>
+      <link>/Yiziii/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>MESSISH/Yiziii/tags/go/</guid>
+      <guid>/Yiziii/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>MESSISH/Yiziii/tags/golang/</link>
+      <link>/Yiziii/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>MESSISH/Yiziii/tags/golang/</guid>
+      <guid>/Yiziii/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>MESSISH/Yiziii/tags/hugo/</link>
+      <link>/Yiziii/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>MESSISH/Yiziii/tags/hugo/</guid>
+      <guid>/Yiziii/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>MESSISH/Yiziii/tags/templates/</link>
+      <link>/Yiziii/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>MESSISH/Yiziii/tags/templates/</guid>
+      <guid>/Yiziii/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>MESSISH/Yiziii/tags/themes/</link>
+      <link>/Yiziii/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>MESSISH/Yiziii/tags/themes/</guid>
+      <guid>/Yiziii/tags/themes/</guid>
       <description></description>
     </item>
     
